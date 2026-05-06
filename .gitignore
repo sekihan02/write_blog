@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+.DS_Store
+.env
+.venv/
+venv/
+
+# Generated or cloned by the optional official ICDNet notebook section.
+low_light_icd_comparison_notebook/ICD/
+*.pth
+
+# Keep the article sample, but do not publish stale batch outputs copied from
+# the optional official ICDNet working directory.
+low_light_icd_comparison_notebook/images/output/official_icd/*
+!low_light_icd_comparison_notebook/images/output/official_icd/pexels-octoptimist-3185041.jpg
