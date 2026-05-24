@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers>=4.56.0
+huggingface_hub
+pillow
+matplotlib
+pandas
+tqdm
+numpy
+scipy
+ipykernel
